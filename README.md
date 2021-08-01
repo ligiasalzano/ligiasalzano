@@ -12,4 +12,4 @@
   <img align="center" alt="Ligia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ligia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<!-- Aprendi com a Rafa Ballerini @rafaballerini -->
+<!-- Aprendi sobre esse repositório com a Rafa Ballerini @rafaballerini https://youtu.be/TsaLQAetPLU -->
