@@ -11,5 +11,6 @@
   <img align="center" alt="Ligia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ligia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ligia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" height="100" alt="Ligia-Hi" src="images/ligia.gif">
 </div>
 <!-- Aprendi sobre esse repositório com a Rafa Ballerini @rafaballerini https://youtu.be/TsaLQAetPLU -->
